@@ -9,3 +9,7 @@ __pycache__/
 .vscode/
 
 .env
+
+mri_classification_dataset/
+data/
+cifar10_examples/
