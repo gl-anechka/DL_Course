@@ -13,3 +13,5 @@ __pycache__/
 data/
 cifar10_examples/
 microplastic/
+voc_heads_detection_v1/
+weights/
